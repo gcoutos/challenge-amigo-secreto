@@ -1,5 +1,5 @@
 # Amigo Secreto 
-Este é um projeto simples composto por um arquivo HTML, CSS e JavaScript. Ele foi esenvolvido para facilitar a organização de sorteios de amigos secretos e permite que os usuários adicionem nomes à lista, realizem o sorteio e visualizem os resultados de maneira fácil e interativa.
+Este é um projeto simples composto por um arquivo HTML, CSS e JavaScript. Ele foi desenvolvido para facilitar a organização de sorteios de amigos secretos e permite que os usuários adicionem nomes à lista, realizem o sorteio e visualizem os resultados de maneira fácil e interativa.
 
 
 ## Funcionalidades
