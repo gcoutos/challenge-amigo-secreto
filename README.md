@@ -47,23 +47,6 @@ Não há necessidade de servidores ou configurações complexas, basta abrir o a
 Adicione os nomes, clique no botão para sortear, e veja os resultados!
 
 
-## Estrutura do projeto
-
-amigo-secreto/
-
-├── assets/
-
-│   ├── amigo-secreto.png      # Imagem representativa do amigo secreto
-
-│   └── play_circle_outline.png # Ícone do botão de sorteio
-
-├── index.html                 # Arquivo HTML com a estrutura do projeto
-
-├── style.css                  # Arquivo CSS com o estilo da página
-
-└── app.js                     # Arquivo JavaScript com as funcionalidades do sorteio
-
-
 ## Capturas de Tela
 ### Tela inicial:
 <img width="959" alt="1" src="https://github.com/user-attachments/assets/a579ec93-6367-4bfa-9b2b-f11e2d1bb7dd" />
