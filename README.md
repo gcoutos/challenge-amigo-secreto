@@ -38,7 +38,7 @@ Este projeto é composto por um arquivo HTML, CSS e JavaScript. Siga os passos a
 
 ### 1. Clone o repositório:
 
-git clone https://github.com/SEU_USUARIO/amigo-secreto.git
+git clone https://github.com/gcoutos/challenge-amigo-secreto.git
 
 ### 2. Abra o arquivo index.html no seu navegador:
 Não há necessidade de servidores ou configurações complexas, basta abrir o arquivo HTML diretamente no seu navegador.
